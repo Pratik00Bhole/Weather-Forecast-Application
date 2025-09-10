@@ -20,6 +20,18 @@ This project allows users to check the **temperature, humidity, and weather cond
 
 ---
 
+📖 Learning Outcomes
+
+Understanding API integration using Python
+
+Parsing JSON data to extract relevant information
+
+Implementing error handling for user inputs
+
+Building interactive console applications
+
+---
+
 ## 🚀 How to Run
 1. Clone this repository:
    git clone https://github.com/Pratik00Bhole/weather-forecast-app.git
